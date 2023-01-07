@@ -1,9 +1,10 @@
 ---
 title: Site Credits
-feed: hide
-date: 2022-12-31
-permalink: /credits
+category: note
 format: list
+feed: hide
+permalink: /credits
+date: 2022-12-31
 ---
 
 - Content powered by [Jekyll](https://jekyllrb.com/)
