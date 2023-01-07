@@ -1,8 +1,8 @@
 ---
 layout: Post
 permalink: /experiences
-title: Experiences
 feedformat: list
+title: Experiences
 ---
 
 \

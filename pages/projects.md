@@ -1,10 +1,9 @@
 ---
 layout: Post
 permalink: /projects
-feedformat: list
+feedformat: card
 title: Projects
 ---
 
 \
-More coming out!
-<!-- feedformat: row -->
+Here are my personal projects. Most of them are stored on GitHub. I am also open to collaborate on open-source projects.
