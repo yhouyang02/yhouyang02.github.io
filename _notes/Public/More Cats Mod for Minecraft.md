@@ -6,8 +6,9 @@ feed: show
 date: 2022-05-01
 ---
 
-\
-![Project Thumbnail](./../assets/img/thumbnails/thumbnail-minecraft-more-cats.png)
+<p align="center">
+      <img src="../../assets/img/thumbnails/thumbnail-minecraft-more-cats.png" width="100%">
+</p>
 
 A game mod that brings more cat elements to Minecraft 1.18.2. With installation, players can construct their game worlds with cat blocks, decorate their houses with cat items, and summon cute kittens. Built with Java 17 and [Fabric APIs](https://fabricmc.net/).
 
