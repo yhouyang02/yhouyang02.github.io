@@ -12,4 +12,4 @@ My personal website containing my profile, work experiences, projects, and digit
 
 View this project on [GitHub <img src="../../assets/img/github-icon.svg" alt="drawing" width="16"/>](https://github.com/yhouyang02/yhouyang02.github.io).
 
-<u>Technologies</u>: CSS • Docker • HTML • JavaScript • Jekyll • YAML
+<u>Technologies</u>: CSS • Docker • HTML • JavaScript • Jekyll • Ruby • YAML
