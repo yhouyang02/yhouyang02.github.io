@@ -18,4 +18,10 @@ A web-based reminder app that features a mordern UI design and a smooth user exp
 
 Click [here](https://personal-vcgtfgt9.outsystemscloud.com/Reminders/) to view a demo of this project. 
 
-<u>Technologies</u>: CSS • OutSystems • SQL
+> Username: publicdemo@yhouyang.me
+> 
+> Password: On20June2023!
+
+The performance of this project is assured by automation tests deigned with Java and Selenium. View the test suite on [GitHub <img src="../../assets/img/github-icon.svg" alt="drawing" width="16"/>](https://github.com/yhouyang02/outsystems-testsuite-reminders).
+
+<u>Technologies</u>: CSS • Java • OutSystems • Selenium • SQL • TestNG
