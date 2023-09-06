@@ -1,5 +1,5 @@
 ---
-title: Reminders
+title: Reminders (IN PROGRESS)
 category: project
 format: notes
 feed: show
@@ -22,6 +22,6 @@ Click [here](https://personal-vcgtfgt9.outsystemscloud.com/Reminders/) to view a
 > 
 > Password: On20June2023!
 
-The performance of this project is assured by automation tests designed with Java and Selenium. View the test suite on [GitHub <img src="../../assets/img/github-icon.svg" alt="drawing" width="16"/>](https://github.com/yhouyang02/outsystems-testsuite-reminders).
+The performance of this project is assured by automation tests designed with Java and Selenium. View the complete test suite on [GitHub <img src="../../assets/img/github-icon.svg" alt="drawing" width="16"/>](https://github.com/yhouyang02/outsystems-testsuite-reminders).
 
 <u>Technologies</u>: CSS • Java • Maven • OutSystems • Selenium • SQL • TestNG
