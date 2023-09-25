@@ -6,7 +6,7 @@ title: Experiences
 ---
 
 #### Undergraduate Teaching Assistant • PT @ [UBC](https://www.ubc.ca/) (Sep 2023 - present)
-I am a teaching assistant in the introductory computer science course *CPSC 110: Computation, Programs, and Programming*. I hold labs, assess students' coding assignments, and answer students' questions in person and online. This course is based on the Racket language and is the first programming course for most UBC computer science students. 
+I am a teaching assistant in the introductory computer science course *CPSC 110: Computation, Programs, and Programming*. I orgnize labs, assess coding assignments, and answer students' questions in person and online. This course is based on the Racket language and is the first programming course for most UBC computer science students. 
 
 #### Application Developer • Co-op @ [ICBC](https://www.icbc.com/) (May 2023 - Aug 2023)
 I was a member of the SDLC Improvement team which ensured stable delivery of multiple applications. I helped develop a prototype of internal web applications using the OutSystem platform. I also explored the integration of automation testing and designed a full automation test suite for a client-oriented application using Java and Selenium, enhancing the efficiency and reliability of our testing processes.
