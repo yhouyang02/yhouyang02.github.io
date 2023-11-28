@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "compare": "c",
+        "cstdint": "c",
+        "format": "c"
+    },
+    "markdownlint.config": {
+        "MD033": {
+            "allowed_elements": [
+                "p",
+                "u",
+                "img"
+            ]
+        }
+    }
+}
