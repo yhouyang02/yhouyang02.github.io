@@ -2,7 +2,7 @@
 title: Fitness Tracker
 category: project
 format: notes
-feed: hide
+feed: show
 date: 2023-09-01
 ---
 
@@ -11,7 +11,7 @@ Traditional gyms often lack online platforms for customers to access their train
 - An online platform for gyms to showcase their programs.
 - A comprehensive service for users to track health metrics, manage subscriptions, state preferences, and find the best-suited fitness plan.
 
-This is a collaborative project in which my major work include 1) querying fitness data from the database; and 2) routing the queried reuslts to the frond-end.
+This is a collaborative project in which my major work include 1) querying fitness data from the database; and 2) routing the queried results to the frond-end.
 
 <!-- 
 TODO: 
