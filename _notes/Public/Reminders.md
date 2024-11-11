@@ -1,5 +1,5 @@
 ---
-title: Reminders (IN PROGRESS)
+title: Reminders
 category: project
 format: notes
 feed: show
