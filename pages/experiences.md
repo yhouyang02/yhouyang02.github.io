@@ -5,7 +5,7 @@ feedformat: list
 title: Experiences
 ---
 
-#### Undergraduate Teaching Assistant • PT @ [UBC](https://www.ubc.ca/) (Sep 2023 - present)
+#### Undergraduate Teaching Assistant • PT @ [UBC](https://www.ubc.ca/) (Sep 2023 - Dec 2024)
 I am a teaching assistant in the introductory computer science courses *CPSC 107: Systematic Program Design* and *CPSC 110: Computation, Programs, and Programming*. I organize labs, assess coding assignments, and answer students' questions in person and online. These courses are based on the Racket language and are one of the first programming courses for most UBC computer science students. 
 
 #### Application Developer • Co-op @ [ICBC](https://www.icbc.com/) (May 2023 - Aug 2023)
