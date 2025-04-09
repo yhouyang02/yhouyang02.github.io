@@ -13,6 +13,8 @@ Traditional gyms often lack online platforms for customers to access their train
 
 This is a collaborative project in which my work includes 1) querying fitness data from the database; 2) routing the queried results to the frond-end; and 3) formatting and finalizing the project documentation.
 
+View this project on [GitHub <img src="../../assets/img/github-icon.svg" alt="drawing" width="16"/>](https://github.com/yhouyang02/fitness-tracker).
+
 <!-- 
 TODO: 
 1. Upload project images
