@@ -1,0 +1,3 @@
+[submodule "apps/us-software-engineer-jobs-salaries-2024"]
+	path = apps/us-software-engineer-jobs-salaries-2024
+	url = https://github.com/yhouyang02/us-software-engineer-jobs-salaries-2024.git
