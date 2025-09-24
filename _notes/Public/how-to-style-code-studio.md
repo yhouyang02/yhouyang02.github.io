@@ -1,5 +1,5 @@
 ---
-title: How to style your Quarto/R Markdown code chunk in RStudio
+title: How to style your Quarto/R Markdown code chunks in RStudio
 category: note
 format: list
 feed: show
