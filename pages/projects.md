@@ -1,8 +1,9 @@
 ---
 layout: Post
-permalink: /projects
+title: "Projects"
+published: true
 feedformat: card
-title: Projects
+permalink: /projects
 ---
 
 \

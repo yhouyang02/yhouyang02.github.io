@@ -1,9 +1,7 @@
 ---
 layout: Post
-permalink: /notes
+title: "All Notes"
+published: true
 feedformat: row
-title: All Notes
+permalink: /notes
 ---
-
-\
-More coming out!

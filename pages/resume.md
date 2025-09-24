@@ -1,8 +1,9 @@
 ---
 layout: Post
-permalink: /resume
+title: "Resume"
+published: true
 content-type: static
-title: Resume
+permalink: /resume
 ---
 
 File updated September 2, 2025.

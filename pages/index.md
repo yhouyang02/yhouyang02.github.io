@@ -1,5 +1,6 @@
 ---
 layout: Post
+title: "Home"
+published: true
 permalink: /
-title: Home
 ---
