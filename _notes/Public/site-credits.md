@@ -1,9 +1,10 @@
 ---
-layout: Post
-title: "Site Credits"
-published: true
-content-type: static
-permalink: /projects
+title: Site Credits
+category: note
+format: list
+feed: hide
+permalink: /credits
+date: 2022-12-31
 ---
 
 - Content powered by [Jekyll](https://jekyllrb.com/)

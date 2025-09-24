@@ -1,9 +1,8 @@
 ---
 layout: Post
-title: "Projects"
-published: true
-feedformat: card
 permalink: /projects
+feedformat: card
+title: Projects
 ---
 
 \

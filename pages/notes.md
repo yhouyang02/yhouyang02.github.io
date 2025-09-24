@@ -1,7 +1,9 @@
 ---
 layout: Post
-title: "All Notes"
-published: true
-feedformat: row
 permalink: /notes
+feedformat: row
+title: All Notes
 ---
+
+\
+More coming out!

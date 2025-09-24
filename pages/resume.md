@@ -1,9 +1,8 @@
 ---
 layout: Post
-title: "Resume"
-published: true
-content-type: static
 permalink: /resume
+content-type: static
+title: Resume
 ---
 
 File updated September 2, 2025.

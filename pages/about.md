@@ -1,9 +1,8 @@
 ---
 layout: Post
-title: "About"
-published: true
-content-type: static
 permalink: /about
+feedformat: list
+title: About
 ---
 
 \
