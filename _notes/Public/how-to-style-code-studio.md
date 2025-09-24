@@ -2,7 +2,7 @@
 title: How to style your Quarto/R Markdown code chunks in RStudio
 category: note
 format: list
-feed: show
+feed: hide
 date: 2025-09-24
 ---
 
