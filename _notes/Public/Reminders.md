@@ -7,11 +7,11 @@ date: 2023-05-01
 ---
 
 <p align="center">
-      <img src="../../assets/img/thumbnails/thumbnail-reminders-list.png" width="100%">
+      <img src="../../assets/img/thumbnails/thumbnail-reminders-list.png" width="100%" alt="Reminders app main list screenshot">
 </p>
 
 <p align="center">
-      <img src="../../assets/img/thumbnails/thumbnail-reminders-new.png" width="100%">
+      <img src="../../assets/img/thumbnails/thumbnail-reminders-new.png" width="100%" alt="Reminders app new reminder screenshot">
 </p>
 
 A web-based reminder app that features a modern UI design and a smooth user experience. Users can manage their list of reminders effortlessly by including a title, description, and completion status. Constructed with [OutSystems 11](https://www.outsystems.com/).
