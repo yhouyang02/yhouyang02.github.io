@@ -67,8 +67,8 @@ Click the *Shortcut* column in the corresponding row and press the key combinati
 
 ## LLM Usage Disclosure
 
-| **Model** | **Organization** | **Date** |
-|-----------|------------------|----------|
-| [GPT-5](https://openai.com/gpt-5/) | OpenAI | September 2025|
+| **Model**                            | **Organization** | **Date**      |
+|--------------------------------------|------------------|---------------|
+| [GPT-5](https://openai.com/gpt-5/)   | OpenAI           | September 2025|
 
 This content was created with assistance from the above-mentioned large language model(s). All information has been reviewed and verified by the author.

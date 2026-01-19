@@ -18,9 +18,4 @@ This is a collaborative project in which my work includes 1) developing the send
 
 View this project on [GitHub <img src="../../assets/img/github-icon.svg" alt="drawing" width="16"/>](https://github.com/yhouyang02/personal-finance-management).
 
-<!-- 
-TODO: 
-1. Upload project status and images (Dec 2024)
- -->
-
 <u>Technologies</u>: Amazon EC2 • Amazon RDS • Amazon S3 • AWS Lambda • MySQL • scikit-learn
