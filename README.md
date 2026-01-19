@@ -4,7 +4,7 @@ This if a repo containing sources for my personal website (projects, experiences
 
 ## Viewing from the browser
 
-This website is hosted on GitHub Pages, accessible at [https://yhouyang02.github.io/] or this temporary domain [https://www.yhouyang.me/].
+This website is hosted on GitHub Pages, accessible at [https://www.yhouyang.me/](https://www.yhouyang.me/).
 
 ## Rebuilding the project
 
