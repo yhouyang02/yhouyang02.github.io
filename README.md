@@ -1,6 +1,6 @@
 # Personal Website of Yuheng Ouyang
 
-This if a repo containing sources for my personal website (projects, experiences, notes). The website content is powered by [Jekyll](https://jekyllrb.com/), adapted from the template [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io.git).
+This is a repo containing sources for my personal website (projects, experiences, and posts). The website content is powered by [Jekyll](https://jekyllrb.com/), adapted from the template [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io.git).
 
 ## Viewing from the browser
 
