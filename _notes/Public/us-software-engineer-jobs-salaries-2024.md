@@ -6,6 +6,7 @@ feed: show
 date: 2025-04-01
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD059 -->
 
 <p align="center">
       <img src="../../assets/img/thumbnails/thumbnail-usswe2024-dashboard.png" width="100%" alt="US Software Engineer Jobs & Salaries 2024 dashboard screenshot">
@@ -29,9 +30,7 @@ Highlights of the dashboard:
 
 The positioning of United States cities on the map view relies on a local copy of the [TopoJSON library (v3.0.2)](https://github.com/topojson/topojson/releases/tag/v3.0.2). The geographic data, including the latitudes and longitudes of United States cities used in this project, depends on a publicly accessible [dataset](https://github.com/topojson/us-atlas) built from the U.S. Census Bureau.
 
-<!-- markdownlint-disable MD059 -->
 Click [here](https://yhouyang02.github.io/us-software-engineer-jobs-salaries-2024/) to view the live dashboard. You may need to adjust your browser zoom level for the best experience.
-<!-- markdownlint-disable MD059 -->
 
 View this project on [GitHub <img src="../../assets/img/github-icon.svg" alt="drawing" width="16"/>](https://github.com/yhouyang02/us-software-engineer-jobs-salaries-2024).
 
