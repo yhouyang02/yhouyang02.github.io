@@ -8,6 +8,8 @@ date: 2025-04-01
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD059 -->
 
+This project delivers an interactive data dashboard that visualizes software engineering job postings in the United States in 2024. It consolidates key insights into a single, easy-to-use interface so users can quickly explore the market and understand compensation trends.
+
 <p align="center">
       <img src="../../assets/img/thumbnails/thumbnail-usswe2024-dashboard.png" width="100%" alt="US Software Engineer Jobs & Salaries 2024 dashboard screenshot">
       <em> Figure 1: Dashboard overview </em>
@@ -17,8 +19,6 @@ date: 2025-04-01
       <img src="../../assets/img/thumbnails/thumbnail-usswe2024-california.png" width="100%" alt="US Software Engineer Jobs & Salaries 2024 dashboard California state view screenshot">
       <em> Figure 2: State-level map view </em>
 </p>
-
-This project delivers an interactive data dashboard that visualizes software engineering job postings in the United States in 2024. It consolidates key insights into a single, easy-to-use interface so users can quickly explore the market and understand compensation trends.
 
 Highlights of the dashboard:
 
