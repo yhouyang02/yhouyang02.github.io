@@ -8,6 +8,8 @@ date: 2023-05-01
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD059 -->
 
+A web-based reminder app that features a modern UI design and a smooth user experience. Users can manage their list of reminders effortlessly by including a title, description, and completion status. Constructed with [OutSystems 11](https://www.outsystems.com/).
+
 <p align="center">
       <img src="../../assets/img/thumbnails/thumbnail-reminders-list.png" width="100%" alt="Reminders app main list screenshot">
       <em> Figure 1: Future and completed reminders </em>
@@ -17,8 +19,6 @@ date: 2023-05-01
       <img src="../../assets/img/thumbnails/thumbnail-reminders-new.png" width="100%" alt="Reminders app new reminder screenshot">
       <em> Figure 2: Adding a new reminder </em>
 </p>
-
-A web-based reminder app that features a modern UI design and a smooth user experience. Users can manage their list of reminders effortlessly by including a title, description, and completion status. Constructed with [OutSystems 11](https://www.outsystems.com/).
 
 ~~Click [here](https://personal-vcgtfgt9.outsystemscloud.com/Reminders/) to view a demo of this project.~~ (temporarily unavailable)
 

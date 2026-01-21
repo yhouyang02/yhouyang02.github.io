@@ -7,6 +7,8 @@ date: 2021-07-01
 ---
 <!-- markdownlint-disable MD033 -->
 
+A course planner application with Swing GUI, allowing users to manage a local worklist of university courses using JSON. Users can add/delete/star the courses in the worklist, view summaries of the worklist, and receive reminders when courses are conflicting.
+
 <p align="center">
       <img src="../../assets/img/thumbnails/thumbnail-cplanner-all.png" width="49%" alt="CPlanner Lite all courses screenshot">
       <img src="../../assets/img/thumbnails/thumbnail-cplanner-stat.png" width="49%" alt="CPlanner Lite course statistics screenshot">
@@ -21,8 +23,6 @@ date: 2021-07-01
       <br>
       <em> Figure 4 (right): Deleting a course </em>
 </p>
-
-A course planner application with Swing GUI, allowing users to manage a local worklist of university courses using JSON. Users can add/delete/star the courses in the worklist, view summaries of the worklist, and receive reminders when courses are conflicting.
 
 View this project on [GitHub <img src="../../assets/img/github-icon.svg" alt="drawing" width="16"/>](https://github.com/yhouyang02/CPlannerLite).
 
