@@ -15,12 +15,11 @@ The `wordguess` package is designed for developers to create guessing games. The
 
 To install the package, run the following command:
 
-    ```bash
-    pip install -i https://test.pypi.org/simple/ wordguess
-    ```
+```{bash}
+pip install -i https://test.pypi.org/simple/ wordguess
+ ```
 
 The analysis was built on top of these key dependencies:
-
     - Continuous integration/development: GitHub Actions
     - Documentation: Quarto, quartodoc
     - Dependency management: Conda, Hatch
