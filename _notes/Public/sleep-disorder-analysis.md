@@ -21,7 +21,7 @@ The analysis was built on top of these key dependencies:
 - Data modelling: pandas, scikit-learn
 - Data validation: Deepchecks, Pandera
 - Data visualization: Altair, Matplotlib, SciencePlots, Seaboarn
-- Dependency management: Conda, conda-lock, Docker,
+- Dependency management: Conda, conda-lock, Docker
 - Reporting: Quarto, Jupyter
 
 Click [here](https://www.yhouyang.me/sleep-disorder-analysis/sleep-disorder-analysis.html) to view the research report.
