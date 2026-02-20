@@ -16,7 +16,6 @@ Stress has become a critical public health concern, yet its relationship with da
 </p>
 
 The analysis was built on top of these key dependencies:
-
     - Build automation: GNU Make
     - Data modelling: pandas, scikit-learn
     - Data validation: Deepchecks, Pandera
