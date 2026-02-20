@@ -18,13 +18,14 @@ To install the package, run the following command:
     ```bash
     pip install -i https://test.pypi.org/simple/ wordguess
     ```
+
 The analysis was built on top of these key dependencies:
 
-- Continuous integration/development: GitHub Actions
-- Documentation: Quarto, quartodoc
-- Dependency management: Conda, Hatch
-- Python package template: Copier, pyOpenSci
-- Testing: Codecov, pytest
+    - Continuous integration/development: GitHub Actions
+    - Documentation: Quarto, quartodoc
+    - Dependency management: Conda, Hatch
+    - Python package template: Copier, pyOpenSci
+    - Testing: Codecov, pytest
 
 Click [here](https://ubc-mds.github.io/wordguess/) to view the package manual.
 
