@@ -19,7 +19,7 @@ The analysis was built on top of these key dependencies:
     - Build automation: GNU Make
     - Data modelling: pandas, scikit-learn
     - Data validation: Deepchecks, Pandera
-    - Data visualization: Altair, Matplotlib, SciencePlots, Seaboarn
+    - Data visualization: Altair, Matplotlib, SciencePlots, Seaborn
     - Dependency management: Conda, conda-lock, Docker
     - Reporting: Quarto, Jupyter
 
