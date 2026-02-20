@@ -68,10 +68,7 @@ plugins:
 collections:
     notes:
       output: true
-      permalink: /notes/:title
-    projects:
-      output: true
-      permalink: /projects/:title
+      permalink: /:categories/:title
 
 
 markdown: kramdown
