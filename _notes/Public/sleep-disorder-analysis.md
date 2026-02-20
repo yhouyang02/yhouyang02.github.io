@@ -16,12 +16,13 @@ Stress has become a critical public health concern, yet its relationship with da
 </p>
 
 The analysis was built on top of these key dependencies:
-    - Build automation: GNU Make
-    - Data modelling: pandas, scikit-learn
-    - Data validation: Deepchecks, Pandera
-    - Data visualization: Altair, Matplotlib, SciencePlots, Seaboarn
-    - Dependency management: Conda, conda-lock, Docker
-    - Reporting: Quarto, Jupyter
+
+- Build automation: GNU Make
+- Data modelling: pandas, scikit-learn
+- Data validation: Deepchecks, Pandera
+- Data visualization: Altair, Matplotlib, SciencePlots, Seaborn
+- Dependency management: Conda, conda-lock, Docker
+- Reporting: Quarto, Jupyter
 
 Click [here](https://www.yhouyang.me/sleep-disorder-analysis/sleep-disorder-analysis.html) to view the research report.
 
