@@ -6,4 +6,4 @@ title: Projects
 ---
 
 \
-Here are my personal projects. Most of them are stored on GitHub. I am also open to collaborate on open-source projects.
+Here are some of the projects I have worked on. Click on each project to view the details, source code, and deployment (if applicable).
