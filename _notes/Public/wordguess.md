@@ -29,6 +29,6 @@ The analysis was built on top of these key dependencies:
 
 Click [here](https://ubc-mds.github.io/wordguess/) to view the package manual.
 
-To view the source code, build the package locally, or contribute to the project, visit the [GitHub <img src="../../assets/img/github-icon.svg" alt="drawing" width="16"/>](https://ubc-mds.github.io/wordguess/) repository.
+To view the source code, build the package locally, or contribute to the project, visit the [GitHub <img src="../../assets/img/github-icon.svg" alt="drawing" width="16"/>](https://github.com/yhouyang02/wordguess) repository.
 
 <u>Technologies</u>: GitHub Actions • Hatch • quartodoc • pytest • Python
