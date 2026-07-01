@@ -19,4 +19,6 @@ The app also has an LLM Chatbot tab that uses the `gpt-4.1-mini` model with pre-
 
 Click [here](https://yhouyang02-walmonitor.share.connect.posit.cloud/) to view a live demo of the dashboard (adjust your browser zoom level for the best viewing experience).
 
-<u>Technologies</u>: ibis • playwright • pytest • Python • QueryChat
+To view the source code and build the package locally, visit the [GitHub <img src="../../assets/img/github-icon.svg" alt="drawing" width="16"/>](https://github.com/yhouyang02/walmonitor) repository.
+
+<u>Technologies</u>: DuckDB • playwright • pytest • Python • QueryChat • Shiny
